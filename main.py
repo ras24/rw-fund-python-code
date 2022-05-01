@@ -2,5 +2,5 @@
 Python Demo
 """
 
-print("Hello world!")
+print("Welcome!")
 print("My name is Me")
